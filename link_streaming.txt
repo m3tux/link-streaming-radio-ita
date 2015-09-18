@@ -1,0 +1,78 @@
+######################################################
+
+Lista Radio Italiane in Streaming - A cura di NAPTUX
+
+Per rimanere aggiornato sui link:
+https://github.com/naptux/link-streaming-radio-ita
+
+
+#####################################################
+
+
+Radio Uno: rtsp://live.media.rai.it/broadcast/radiouno.rm
+
+Radio Due: rtsp://live.media.rai.it/broadcast/radiodue.rm
+
+Radio Tre: rtsp://live.media.rai.it/broadcast/radiotre.rm
+
+RAI filodiffusione 4: rtsp://live.media.rai.it/broadcast/fd4.rm
+
+RAI filodiffusione 5: rtsp://live.media.rai.it/broadcast/fd5.rm
+
+RAI GR Parlamento: rtsp://live.media.rai.it/broadcast/grparlamento.rm
+
+RAI Estero: http://www.listenlive.eu/rai8.m3u
+
+RAI Isoradio: rtsp://live.media.rai.it/broadcast/isoradio.rm
+
+Radio deejay: http://mp3.kataweb.it:8000/RadioDeejay
+
+RTL 102.5: http://shoutcast.rtl.it:3010/stream/1/ 
+
+RDS: http://www.rds.it:8000/stream
+
+Virgin Radio: http://shoutcast.unitedradio.it:1301/
+
+Radio m2o: http://mp3.kataweb.it:8000/M2O.m3u
+
+R101: http://players.creacast.com/creacast/r101/playlist.pls
+
+R101 Anni70: http://players.creacast.com/creacast/r101_thema5/playlist.pls
+
+R101 Anni80: http://players.creacast.com/creacast/r101_thema1/playlist.pls
+
+R101 Anni90: http://players.creacast.com/creacast/r101_thema2/playlist.pls
+
+R101 Contemp: http://players.creacast.com/creacast/r101_thema3/playlist.pls
+
+Radio 105: http://shoutcast.unitedradio.it:1101/listen.pls
+
+Radio 105 Hits: http://shoutcast.unitedradio.it:1109/listen.pls
+
+Radio 105 HipHop: http://shoutcast.unitedradio.it:1113/listen.pls
+
+Radio 105 House: http://shoutcast.unitedradio.it:1203/listen.pls
+
+Radio 105 Latino: http://shoutcast.unitedradio.it:1209/listen.pls
+
+Radio 105 Miami: http://shoutcast.unitedradio.it:1215/listen.pls
+
+Radio 105 Story: http://shoutcast.unitedradio.it:1313/listen.pls
+
+Zoo Radio 105: http://shoutcast.unitedradio.it:1413/listen.pls
+
+Radio 105 Classic: http://shoutcast.unitedradio.it:1105/listen.pls
+
+Radio24: http://shoutcast.radio24.it:8000/listen.pls
+
+Radio Ibiza:http://players.fluidstream.net/kisskissibiza.pls
+
+Radio Kiss Kiss:http://players.fluidstream.net/kisskissnetwork.pls
+
+Radio Kiss Kiss Italia: http://players.fluidstream.net/kisskissitalia.pls
+
+Radio Kiss Kiss Napoli: http://players.fluidstream.net/kisskissnapoli.pls
+
+Radio LatteMiele: http://onair18.xdevel.com:8014/listen.pls
+
+Radio Subasio:http://onair18.xdevel.com:8152/listen.pls
