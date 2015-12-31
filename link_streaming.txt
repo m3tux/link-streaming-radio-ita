@@ -1,6 +1,6 @@
 ######################################################
 
-Lista Radio Italiane in Streaming - A cura di NAPTUX
+Lista Radio Italiane in Streaming - A cura di m3tux
 
 Per rimanere aggiornato sui link:
 https://github.com/naptux/link-streaming-radio-ita
